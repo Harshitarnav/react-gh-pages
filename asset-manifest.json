@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.7d90c33a.css",
+    "main.js": "/react-gh-pages/static/js/main.95c331d7.js",
+    "static/js/787.a70852f8.chunk.js": "/react-gh-pages/static/js/787.a70852f8.chunk.js",
+    "static/media/frontPage.jpg": "/react-gh-pages/static/media/frontPage.21fee348c5d232191a32.jpg",
+    "static/media/ttds-logo-removebg-preview.png": "/react-gh-pages/static/media/ttds-logo-removebg-preview.0e6d71c71ebfb2b7c117.png",
+    "static/media/searchPage-removebg-preview.png": "/react-gh-pages/static/media/searchPage-removebg-preview.266f2fcce13c6c13516c.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.7d90c33a.css.map": "/react-gh-pages/static/css/main.7d90c33a.css.map",
+    "main.95c331d7.js.map": "/react-gh-pages/static/js/main.95c331d7.js.map",
+    "787.a70852f8.chunk.js.map": "/react-gh-pages/static/js/787.a70852f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d90c33a.css",
+    "static/js/main.95c331d7.js"
+  ]
+}
